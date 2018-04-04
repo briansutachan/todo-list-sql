@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Fascinate Inline', cursive;
 }
 
 a {
@@ -55,6 +55,7 @@ a {
 
 .todo-input {
   flex-grow: 1;
+  border-radius: 25px;
   font-size: 20px;
   padding: 0px 10px;
   border: 0;
@@ -103,6 +104,7 @@ a {
   -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
   -moz-box-sizing: border-box;    /* Firefox, other Gecko */
   box-sizing: border-box; 
+  border-radius: 25px;
   padding: 0px 20px;
   display: flex;
   align-items: center;
